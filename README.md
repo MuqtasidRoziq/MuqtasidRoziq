@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">
+  Hello, I'm Rojik
+  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" 
+       alt="waving hand gif" width="40" />
+</h1>
 
 <!--
 **MuqtasidRoziq/MuqtasidRoziq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
