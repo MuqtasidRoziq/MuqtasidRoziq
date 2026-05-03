@@ -15,6 +15,8 @@
 
 <p align="center">
   
+  ## skills and expertise
+  
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -32,7 +34,7 @@
 
 ---
 
-# GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuqtasidRoziq&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com/?user=MuqtasidRoziq&theme=tokyonight" />
@@ -42,7 +44,7 @@
 
 
 
-## 👀 Visitor
+## Visitor
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MuqtasidRoziq&color=blue" />
 </p>
