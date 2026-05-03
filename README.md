@@ -4,7 +4,7 @@
        width="40" />
 </h1>
 
-<p align="center">
+<p align="center" style="background-color:#0D1117; padding:15px; border-radius:12px;">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Enthusiast;Data+Mining+Student;Computer+Vision+Developer;Full+Stack+Web+Development;Mobile+Development" />
 </p>
 
@@ -41,6 +41,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuqtasidRoziq&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=MuqtasidRoziq&theme=tokyonight" />
 </p>
 
 ---
