@@ -5,23 +5,31 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Enthusiast;Data+Mining+Student;Computer+Vision+Developer;Flask+%7C+YOLO+%7C+TensorFlow" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Enthusiast;Data+Mining+Student;Computer+Vision+Developer;Full+Stack+Web+Development;Mobile+Development" />
 </p>
 
 ---
 
 ## 🧠 About Me
 - 🎓 Informatics Student in Universitas Harkat Negeri
-- 🤖 Focus: Web Development, Mobile Development, Machine Learning
+- 🤖 Focus: Web Development, Mobile Development, Machine Learning, AI
 
 ---
 
 ## ⚙️ Tech Stack
+
 <p align="center">
-  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </p>
 
@@ -29,8 +37,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuqtasidRoziq&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=MuqtasidRoziq&theme=tokyonight" />
 </p>
 
 ---
