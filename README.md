@@ -4,21 +4,23 @@
        width="40" />
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&background=0D1117&lines=AI+Enthusiast;Data+Mining+Student;Computer+Vision+Developer;Full+Stack+Web+Development;Mobile+Development" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&background=0D1117&lines=AI+Enthusiast;Computer+Vision+Developer;Fullstack+Developer;Mobile+Developer" />
+</p>
 
 ---
 
-## 🧠 About Me
+## About Me
 - 🎓 Informatics Student in Universitas Harkat Negeri
 - 🤖 Focus: Web Development, Mobile Development, Machine Learning, AI
 
 ---
 
-## ⚙️ Tech Stack
+# Tech Stack
 
 <p align="center">
 
-### **Development**
+## **Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
@@ -26,7 +28,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-### **Tools & Workflow**
+## **Tools & Workflow**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9431F?style=flat-square&logo=ubuntu&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
@@ -36,7 +38,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuqtasidRoziq&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com/?user=MuqtasidRoziq&theme=tokyonight" />
