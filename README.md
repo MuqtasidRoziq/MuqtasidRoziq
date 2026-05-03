@@ -4,8 +4,11 @@
        width="40" />
 </h1>
 
-<p align="center" style="background-color:#0D1117; padding:15px; border-radius:12px;">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Enthusiast;Data+Mining+Student;Computer+Vision+Developer;Full+Stack+Web+Development;Mobile+Development" />
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&background=0D1117&lines=AI+Enthusiast;Data+Mining+Student;Computer+Vision+Developer;Full+Stack+Web+Development;Mobile+Development" 
+    style="border-radius:10px; padding:10px;" 
+  />
 </p>
 
 ---
