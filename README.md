@@ -1,89 +1,102 @@
-<h1 align="center">
-  Hello, I'm Muqtasid Roziq
-  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" 
-       width="40" />
-</h1>
-
+<!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&background=0D1117&lines=AI+Enthusiast;Fullstack+Developer;Mobile+Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F00FF,100:FF00FF&height=250&section=header&text=Muqtasid%20Roziq&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<p align="center"
-  # Tech Stack
-  </p>
-
-
-<div align="center">
-
-## Tech Stack
-
-<a href="https://flutter.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</a>
-
-<a href="https://dart.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-</a>
-
-<a href="https://www.python.org" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-
-<a href="https://flask.palletsprojects.com" target="_blank">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</a>
-
-<a href="https://laravel.com" target="_blank">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-</a>
-
-<a href="https://git-scm.com" target="_blank">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</a>
-
-<a href="https://ubuntu.com" target="_blank">
-  <img src="https://img.shields.io/badge/Ubuntu-E9431F?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-</a>
-
-<a href="https://www.postman.com" target="_blank">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</a>
-
-<a href="https://www.selenium.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-</a>
-
-<a href="https://ngrok.com" target="_blank">
-  <img src="https://img.shields.io/badge/Ngrok-1F1E1E?style=for-the-badge&logo=ngrok&logoColor=white"/>
-</a>
-
-</div>
-
----
-
+<!-- TYPING -->
 <p align="center">
-  
-## GitHub Stats
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=MuqtasidRoziq&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=MuqtasidRoziq&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Fullstack+Developer;Mobile+Developer;Cyberpunk+Builder" />
 </p>
 
 ---
 
-
+<!-- TECH STACK -->
+<h2 align="center">⚡ Tech Arsenal</h2>
 
 <p align="center">
-  
-## Visitor
 
-  <img src="https://komarev.com/ghpvc/?username=MuqtasidRoziq&color=blue" />
+<a href="https://flutter.dev">
+<img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=00F7FF"/>
+</a>
+
+<a href="https://dart.dev">
+<img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=00F7FF"/>
+</a>
+
+<a href="https://www.python.org">
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F7FF"/>
+</a>
+
+<a href="https://flask.palletsprojects.com">
+<img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=00F7FF"/>
+</a>
+
+<a href="https://nodejs.org">
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00F7FF"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F7FF"/>
+</a>
+
+<a href="https://laravel.com">
+<img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=00F7FF"/>
+</a>
+
+<a href="https://git-scm.com">
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F7FF"/>
+</a>
+
+<a href="https://ubuntu.com">
+<img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=00F7FF"/>
+</a>
+
+<a href="https://www.postman.com">
+<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00F7FF"/>
+</a>
+
+<a href="https://www.selenium.dev">
+<img src="https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=00F7FF"/>
+</a>
+
+<a href="https://ngrok.com">
+<img src="https://img.shields.io/badge/Ngrok-0D1117?style=for-the-badge&logo=ngrok&logoColor=00F7FF"/>
+</a>
+
+</p>
+
+---
+
+<!-- STATS -->
+<h2 align="center">📊 Neural Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuqtasidRoziq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MuqtasidRoziq&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF"/>
+</p>
+
+---
+
+<!-- TROPHY -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuqtasidRoziq&theme=onestar&no-frame=true&margin-w=10&title=Stars,Followers,Commits,Repositories"/>
+</p>
+
+---
+
+<!-- VISITOR -->
+<h2 align="center">👁‍🗨 Visitors</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuqtasidRoziq&color=00F7FF&style=flat-square"/>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:7F00FF,100:00F7FF&height=120&section=footer"/>
 </p>
