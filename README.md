@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F00FF,100:FF00FF&height=250&section=header&text=Muqtasid%20Roziq&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F00FF,100:FF00FF&height=250&section=header&text=Muhammad%20Muqtasid%20Roziq&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <!-- TYPING -->
@@ -76,11 +76,6 @@
 <p align="center"> -->
   <img src="https://streak-stats.demolab.com?user=MuqtasidRoziq&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF"/>
 </p>
-
----
-
-<!-- TROPHY -->
-/
 
 ---
 
