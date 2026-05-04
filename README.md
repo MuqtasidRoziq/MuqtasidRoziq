@@ -72,9 +72,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuqtasidRoziq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF"/>
-</p>
-
-<p align="center">
+<!-- </p>
+<p align="center"> -->
   <img src="https://streak-stats.demolab.com?user=MuqtasidRoziq&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF"/>
 </p>
 
