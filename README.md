@@ -80,9 +80,7 @@
 ---
 
 <!-- TROPHY -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuqtasidRoziq&theme=onestar&no-frame=true&margin-w=10&title=Stars,Followers,Commits,Repositories"/>
-</p>
+/
 
 ---
 
