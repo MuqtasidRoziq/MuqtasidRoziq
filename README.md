@@ -12,10 +12,10 @@
   # Tech Stack
   </p>
 
-## Tech Stack
 
 <div align="center">
 
+## Tech Stack
 
 <a href="https://flutter.dev" target="_blank">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -69,8 +69,10 @@
 
 ---
 
-## GitHub Stats
 <p align="center">
+  
+## GitHub Stats
+  
   <img src="https://github-readme-stats.vercel.app/api?username=MuqtasidRoziq&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com/?user=MuqtasidRoziq&theme=tokyonight" />
 </p>
@@ -79,7 +81,9 @@
 
 
 
-## Visitor
 <p align="center">
+  
+## Visitor
+
   <img src="https://komarev.com/ghpvc/?username=MuqtasidRoziq&color=blue" />
 </p>
