@@ -5,7 +5,7 @@
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Fullstack+Developer;Mobile+Developer;Cyberpunk+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Fullstack+Web+Developer;Mobile+Developer;" />
 </p>
 
 ---
