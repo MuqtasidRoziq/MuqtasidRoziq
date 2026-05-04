@@ -35,6 +35,22 @@
 <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00F7FF"/>
 </a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00F7FF"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00F7FF"/>
+</a>
+
+<a href="https://getbootstrap.com">
+<img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=00F7FF"/>
+</a>
+
+<a href="https://tailwindcss.com">
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00F7FF"/>
+</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F7FF"/>
 </a>
@@ -64,7 +80,6 @@
 </a>
 
 </p>
-
 ---
 
 <!-- STATS -->
