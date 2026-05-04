@@ -13,26 +13,59 @@
   </p>
 
 
-<p align="center">
+<div align="center">
 
-  ---
-  
-  ## skills and expertise
-  
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9431F?style=for-the-badge&logo=ubuntu&logoColor=white) 
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-  ![Ngrok](https://img.shields.io/badge/Ngrok-1F1E1E?style=for-the-badge&logo=ngrok&logoColor=white)
-  
-</p>
+## Tech Stack
+
+<a href="https://flutter.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</a>
+
+<a href="https://dart.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</a>
+
+<a href="https://www.python.org" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<a href="https://flask.palletsprojects.com" target="_blank">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</a>
+
+<a href="https://nodejs.org" target="_blank">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
+
+<a href="https://laravel.com" target="_blank">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</a>
+
+<a href="https://git-scm.com" target="_blank">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+
+<a href="https://ubuntu.com" target="_blank">
+  <img src="https://img.shields.io/badge/Ubuntu-E9431F?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</a>
+
+<a href="https://www.postman.com" target="_blank">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</a>
+
+<a href="https://www.selenium.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+</a>
+
+<a href="https://ngrok.com" target="_blank">
+  <img src="https://img.shields.io/badge/Ngrok-1F1E1E?style=for-the-badge&logo=ngrok&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
